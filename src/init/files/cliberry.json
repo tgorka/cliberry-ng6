@@ -5,8 +5,8 @@
       "init": {
         "version": "0.0.1",
         "parameters": {
-          "name": "<%= name %>",
-          "description": "<%= description %>"
+          "name": "cliberry-ng6",
+          "description": "Cliberry/Schematics/angular cli collection for generation angular project with support and configuration for useful framework and tools."
         }
       }
     }
