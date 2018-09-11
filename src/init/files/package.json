@@ -20,7 +20,7 @@
     "url": "https://<%= utils.dasherize(name) %>"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=8.9"
   },
   "author": {
     "name": "",
