@@ -12,7 +12,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.2] - 2018-09-11
 ### Added
-- 
+- Project with:
+  * angular 6.1
+  * debug framework
+  * yarn 
+  * yarn lock file
+  * onpush angular strategy
+  * angular elements
+  * scss
+  * tests (jasmine, protractor - defaults)
+  * lint
+  * package the output into single bundle
+  * code build
+  * IDEA config 
+  * editorconfig
+  * gitignore
+  * README
 
 ## [0.0.1] - 2018-09-11
 ### Added
