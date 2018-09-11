@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "collections": {
+    "schematics": {
+      "init": {
+        "version": "0.0.1",
+        "parameters": {
+          "alias": "ng6",
+          "name": "cliberry-ng6",
+          "description": "Cliberry/Schematics/angular cli collection for generation angular project with support and configuration for useful framework and tools."
+        }
+      }
+    }
+  }
+}
