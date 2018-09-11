@@ -1,6 +1,6 @@
 {
   "name": "cliberry-ng6",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cliberry/Schematics/angular cli collection for generation angular project with support and configuration for useful framework and tools.",
   "main": "./src/index",
   "scripts": {
