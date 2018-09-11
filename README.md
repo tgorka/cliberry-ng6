@@ -1,6 +1,6 @@
 # cliberry-ng6
 
-[![Version npm](https://img.shields.io/npm/v/node-window-polyfill.svg)](https://www.npmjs.com/package/cliberry-schematics)
+[![Version npm](https://img.shields.io/npm/v/node-window-polyfill.svg)](https://www.npmjs.com/package/cliberry-ng6)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) 
 
 Cliberry/Schematics/angular cli collection for generation angular project with support and configuration for useful framework and tools.
