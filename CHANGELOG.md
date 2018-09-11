@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 ### Fixed
 
+## [0.0.3] - 2018-09-11
+### Fixed
+- schematics in package.json
+
 ## [0.0.2] - 2018-09-11
 ### Added
 - Project with:
