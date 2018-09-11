@@ -1,7 +1,14 @@
 # cliberry-ng6
 
-[![Version npm](https://img.shields.io/npm/v/node-window-polyfill.svg)](https://www.npmjs.com/package/cliberry-ng6)
+[![Version npm](https://img.shields.io/npm/v/cliberry-ng6.svg)](https://www.npmjs.com/package/cliberry-ng6)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) 
+[![Github Downloads](https://img.shields.io/github/downloads/tgorka/cliberry-ng6/total.svg)](https://github.com/tgorka/cliberry-ng6)
+[![NPM Downloads](https://img.shields.io/npm/dt/cliberry-ng6.svg)](https://www.npmjs.com/package/cliberry-ng6)
+[![NPM Gziped size](https://img.shields.io/bundlephobia/minzip/cliberry-ng6.svg)](https://www.npmjs.com/package/cliberry-ng6)
+[![Dependency Status](https://david-dm.org/tgorka/cliberry-ng6.svg)](https://david-dm.org/tgorka/cliberry-ng6)
+[![Build Status](https://travis-ci.org/tgorka/cliberry-ng6.svg?branch=master)](https://travis-ci.org/tgorka/cliberry-ng6)
+[![Coverage percentage](https://coveralls.io/repos/tgorka/cliberry-ng6/badge.svg)](https://coveralls.io/r/tgorka/cliberry-ng6)
+
 
 Cliberry/Schematics/angular cli collection for generation angular project with support and configuration for useful framework and tools.
 
