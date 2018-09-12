@@ -10,6 +10,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 ### Fixed
 
+
+## [0.0.5] - 2018-09-12
+### Added
+- add extraction of the localized messages for generated project
+
+### Removed
+- types part of tsconfig.json in the generated project
+
+### Fixed
+- update cliberry version
+
+
+
 ## [0.0.4] - 2018-09-12
 ### Fixed
 - change \r\n to \n

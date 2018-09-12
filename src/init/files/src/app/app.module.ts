@@ -21,4 +21,6 @@ export class AppModule {
     const customElement = createCustomElement(AppComponent, { injector });
     customElements.define('<%= utils.dasherize(name) %>', customElement);
   }
+
+  public ngDoBootstrap() {}
 }
