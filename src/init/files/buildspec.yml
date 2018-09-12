@@ -11,7 +11,7 @@ phases:
   build:
     commands:
     - yarn build
-    - bash -c 'cat dist/<%= utils.dasherize(name) %>/{runtime,polyfills,styles,main,common}.js > dist/<%= utils.dasherize(name) %>.min.js'
+    - bash -c 'cat dist/{runtime,polyfills,styles,main}.js > dist/<%= utils.dasherize(name) %>.min.js'
     - bash -c 'cat src/index.html > dist/index.html'
     - bash -c 'rm -rf dist/<%= utils.dasherize(name) %>'
   post_build:
